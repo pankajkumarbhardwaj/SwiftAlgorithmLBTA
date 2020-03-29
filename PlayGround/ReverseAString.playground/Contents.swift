@@ -1,6 +1,11 @@
-//: A UIKit based Playground for presenting user interface
+
   
 import UIKit
+
+/*:
+## What is Palindrom String ?
+### if any string is equal to its reverse then the string is palindrom
+*/
 
 func reverseASentance(sentance:String) -> String {
     let senArrey = sentance.components(separatedBy: " ")

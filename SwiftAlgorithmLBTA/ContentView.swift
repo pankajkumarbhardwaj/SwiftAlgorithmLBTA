@@ -6,16 +6,5 @@
 //  Copyright © 2020 Pankaj Kumar. All rights reserved.
 //
 
-import SwiftUI
+import UIKit
 
-struct ContentView: View {
-    var body: some View {
-        Text("Hello, World!")
-    }
-}
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
-}

@@ -16,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C4B92C32430C12E00A134D5 /* FizzBuzz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FizzBuzz.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2C4B92C42430C38600A134D5 /* LinearAndBinarySearch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LinearAndBinarySearch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C6FA50B23D2B26C0052783D /* SwiftAlgorithmLBTA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftAlgorithmLBTA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C6FA50E23D2B26D0052783D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C6FA51023D2B26D0052783D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -26,6 +28,7 @@
 		2C6FA51C23D2B26E0052783D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C6FA52323D2B3120052783D /* MostCommonNameInArrey.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MostCommonNameInArrey.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C6FA52423D2D2590052783D /* ReverseAString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ReverseAString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2CF4255C2430D16900045084 /* Factorial&Recursion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Factorial&Recursion.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,9 @@
 		2C6FA52223D2B2B40052783D /* PlayGround */ = {
 			isa = PBXGroup;
 			children = (
+				2C4B92C32430C12E00A134D5 /* FizzBuzz.playground */,
+				2C4B92C42430C38600A134D5 /* LinearAndBinarySearch.playground */,
+				2CF4255C2430D16900045084 /* Factorial&Recursion.playground */,
 				2C6FA52323D2B3120052783D /* MostCommonNameInArrey.playground */,
 				2C6FA52423D2D2590052783D /* ReverseAString.playground */,
 			);
