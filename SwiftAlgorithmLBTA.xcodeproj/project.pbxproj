@@ -61,8 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				2C12447F24A1D55100ACAE54 /* BubbleSort.playground */,
-				2C12448024A1DCFE00ACAE54 /* MergeSort.playground */,
 				2C12448124A1DD1A00ACAE54 /* QuickSort.playground */,
+				2C12448024A1DCFE00ACAE54 /* MergeSort.playground */,
 				2C12448224A1DD2F00ACAE54 /* ShellSort.playground */,
 			);
 			path = SortingAlgorithm;

@@ -29,6 +29,6 @@ let final = playlist + priorTrack
 let index = tracks.firstIndex { (str) -> Bool in
     return str == selectedTrack
 }
-let prefixArrey = tracks.prefix(upTo: index)
-let sufixArrey = tracks.suffix(from: index)
-let res = sufixArrey + prefixArrey
+//let prefixArrey = tracks.prefix(upTo: index)
+//let sufixArrey = tracks.suffix(from: index)
+//let res = sufixArrey + prefixArrey
